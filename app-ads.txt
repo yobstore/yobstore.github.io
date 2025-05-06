@@ -11232,3 +11232,4 @@ yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 yazle.com, 142949df56ea8ae0be8b5306971900a433988, RESELLER
 zetaglobal.net, 856, RESELLER
 zetaglobal.net, 891, RESELLER
+google.com, pub-4822408919834476, DIRECT, f08c47fec0942fa0
